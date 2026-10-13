@@ -1,0 +1,2 @@
+# Optional evaluation dependencies (application runtime does not require these)
+ragas>=0.4.3,<0.5
